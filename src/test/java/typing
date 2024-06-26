@@ -4,3 +4,12 @@ int min = collection.min(list);
  3.glue step-definition
  4.dry-run
  5.tag
+@ find by(webElement) ;
+public webElement password;
+ PageFactory.EnitElement(Driver.getDriver(),this)
+
+ public void login (String name,String password)){
+ elementName.sendKey(name);
+ elementPassword.sendKey(password)
+ signup.click();
+ }
