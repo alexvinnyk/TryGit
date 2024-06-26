@@ -1,0 +1,6 @@
+int min = collection.min(list);
+ 1. plugin maven cucumber report
+ 2.feature pass to feature
+ 3.glue step-definition
+ 4.dry-run
+ 5.tag
