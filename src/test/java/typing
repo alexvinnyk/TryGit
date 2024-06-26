@@ -1,0 +1,15 @@
+int min = collection.min(list);
+ 1. plugin maven cucumber report
+ 2.feature pass to feature
+ 3.glue step-definition
+ 4.dry-run
+ 5.tag
+@ find by(webElement) ;
+public webElement password;
+ PageFactory.EnitElement(Driver.getDriver(),this)
+
+ public void login (String name,String password)){
+ elementName.sendKey(name);
+ elementPassword.sendKey(password)
+ signup.click();
+ }
